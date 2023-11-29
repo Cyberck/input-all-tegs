@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+
+.container {
+	margin: 0 auto;
+	padding: 0 15px;
+	max-width: 1140px;
+	width: 100%;
+}
+
+.header {
+	padding-top: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+form {
+	margin: 10px 0;
+	text-align: left;
+}
+
+form {
+	max-width: 250px;
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.input {
+	width: 100%;
+	opacity: 0.5;
+}
+
+.dodo {
+	margin-top: 20px;
+}
+
+textarea {
+	resize: none;
+}
+
+
+
+
+
+
